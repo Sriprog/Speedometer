@@ -1,0 +1,48 @@
+/* Write your CSS here */
+
+@media (max-width: 767px) {
+  .image {
+    height: 30vh;
+    width: 40vw;
+  }
+}
+.speed {
+  color: #ffffff;
+  font-weight: 400;
+  text-align: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-style: Italic;
+  font-weight: 400;
+}
+.image {
+  height: 45vh;
+  width: 65vw;
+}
+.des {
+  color: #94a3b8;
+}
+.AccelerateBtn {
+  background-color: #0b69ff;
+  border-radius: 5px;
+  border-style: none;
+  min-height: 4vh;
+  min-width: 10vw;
+  color: #ffffff;
+  cursor: pointer;
+  margin: 20px;
+  outline: none;
+}
+.ApplyBtn {
+  background-color: transparent;
+  border-radius: 5px;
+  border-style: none;
+  min-height: 4vh;
+  min-width: 10vw;
+  color: #cbd5e1;
+  cursor: pointer;
+  margin: 20px;
+  outline: none;
+}
